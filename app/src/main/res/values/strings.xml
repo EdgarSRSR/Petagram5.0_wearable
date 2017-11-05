@@ -35,4 +35,8 @@
     <string name="nombre_mi_mascota">Sin usuario</string>
     <string name="guardar_usuario_instagram">Guardar cuenta</string>
     <string name="recibir_notificaciones">Recibir Notificaciones</string>
+    <string name="titulo_configurar_cuenta">Configurar Cuenta</string>
+    <string name="placeholder_configurar_cuenta">Escribe tu Usuario</string>
+    <string name="configurar_cuenta_instrucciones">usuarios</string>
+    <string name="lanzar_notificacion">Lanzar Notificacion</string>
 </resources>
